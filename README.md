@@ -34,15 +34,6 @@ I love building AI-powered solutions, scalable web apps, and working on cutting-
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>  
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/dhanush-vemulapalli)  
